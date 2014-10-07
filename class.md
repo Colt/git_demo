@@ -1,4 +1,5 @@
 
 * Ian
 * Clint
-* Kevin
+* Kevin T
+* Kevin H
